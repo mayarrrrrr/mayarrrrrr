@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayarrrrrr&label=Profile%20views&color=0e75b6&style=flat" alt="mayarrrrrr" /> </p>
 
-- 🌱 I’m currently learning **Python Flask**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React,Vanilla JS**
+- 💬 Ask me about **React,Vanilla JS,Python Flask,CSS,Bootstrap,Tailwind**
 
 - 📫 How to reach me **akokmayar607@gmail.com**
 
